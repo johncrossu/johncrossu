@@ -1,10 +1,31 @@
-- 👋 Hi, I’m @johncrossu
-- 👀 I’m interested in learning more about crypto and other related tech programmes
-- 🌱 I’m currently learning crypto
-- 💞️ I’m looking to collaborate on crypto and other tech programmes 
-- 📫 How to reach me https://wa.me/2347030914976 or https://t.me/jseyphyno87
+# Ugochukwu Johncross Ugwuegede
 
-<!---
-johncrossu/johncrossu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Aspiring Remote Customer Support Specialist & Data Analyst
+
+---
+
+## Skills
+- Customer Support
+- Live Chat & Email Communication
+- Problem Solving
+- Remote Work
+- Data Analysis (Power BI, Excel Pivot Tables)
+
+---
+
+## Projects
+
+### Customer Support Workflow Demo
+- Designed a sample workflow for handling inquiries with clarity and efficiency
+- Demonstrates logical thinking and user‑focused problem solving
+
+### Data Analysis Exercises
+- Created dashboards and summaries using **Power BI**
+- Used **Excel Pivot Tables** for data exploration and trend interpretation
+- Showcases ability to structure data and extract insights
+
+---
+
+## Contact
+- Email: johncrossugwegede@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/johncrossugwuegede
